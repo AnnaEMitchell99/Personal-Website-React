@@ -1,0 +1,20 @@
+#intro-p{
+    text-align:center;
+    font-size:4.25em;
+    margin-top:8%;
+    background-color: lightcyan;
+    border:10px double purple;
+}
+
+.michael-scott{
+    width: 40em;
+    height: 25em;
+    margin-left: 6em;
+    margin-right: 2em;
+    margin-top: 7.5em;
+   
+}
+
+.body{
+    display:flex;
+}

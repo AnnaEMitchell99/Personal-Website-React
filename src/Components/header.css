@@ -1,0 +1,26 @@
+.page-names {
+    display:flex;
+    justify-content:flex-end;
+    font-size:1.5em;
+    justify-content:space-evenly;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding:.25em;
+    border-bottom: 2px solid violet;
+}
+
+.page{
+    
+}
+
+.my-name{
+    text-align:center;
+    font-size:3em;
+    background-color:lightcyan;
+    border: 6px double purple;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#header{
+    background-color:lightcyan;
+}
